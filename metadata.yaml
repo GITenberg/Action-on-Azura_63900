@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '26301'
     url: http://www.gutenberg.org/2009/agents/26301
     wikipedia: https://en.wikipedia.org/wiki/H._R._Van_Dongen
+covers:
+- cover_type: archival
+  image_path: 63900-h/images/cover.jpg
 creator:
   author:
     agent_name: Osborne, Robertson
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '52655'
     url: http://www.gutenberg.org/2009/agents/52655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63900#Action-on-Azura
 gutenberg_issued: '2020-11-27'
 gutenberg_type: Text
 identifiers:
