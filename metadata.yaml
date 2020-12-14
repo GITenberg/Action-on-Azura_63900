@@ -1,0 +1,39 @@
+_repo: Action-on-Azura_63900
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Van Dongen, H. R.
+    aliases:
+    - Dongen, H. R. Van
+    - Dongen, van
+    - Van Dongen, Henry Richard
+    birthdate: 1920
+    deathdate: 2010
+    gutenberg_agent_id: '26301'
+    url: http://www.gutenberg.org/2009/agents/26301
+    wikipedia: https://en.wikipedia.org/wiki/H._R._Van_Dongen
+creator:
+  author:
+    agent_name: Osborne, Robertson
+    alias: Osborne, Richardson
+    gutenberg_agent_id: '52655'
+    url: http://www.gutenberg.org/2009/agents/52655
+description: ''
+gutenberg_issued: '2020-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Linguists -- Fiction'
+- !lcsh 'Communication -- Fiction'
+- !lcsh 'Extrasolar planets -- Fiction'
+- GITenberg
+title: Action on Azura
+url: http://www.gutenberg.org/ebooks/63900
